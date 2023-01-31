@@ -1,5 +1,9 @@
 # marketing-compaign
 ### Project Summary: Customer Churn Analysis
+##### Software/Packasges/Techniques used:
+- Python,Sklearn,Pandas,Seaborn,Matplotlib.
+- Feature Engineering,feature Selection,Eda,Resampling,Model Selection,Model Evaluation.
+- PCA,standarization,Undersampling,Smote, Chi-sqaure test.
 
 ### Objective: 
 - The objective of this project is to understand the factors that contribute to customer churn and to develop a predictive model that can accurately identify customers who are likely to churn.
